@@ -3,13 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/onlysisir" target="blank"><img src="https://img.shields.io/twitter/follow/onlysisir?logo=twitter&style=for-the-badge" alt="onlysisir" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
-
 - 👨‍💻 All of my projects are available at [https://my-port-folio-black.vercel.app/](https://my-port-folio-black.vercel.app/)
 
 - 📫 How to reach me **shishirbhattarai137@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-port-folio-black.vercel.app/](https://my-port-folio-black.vercel.app/)
 
-- 📫 How to reach me **shishirbhattarai137@gmail.com**
+- 📫 How to reach me **shishirbhattarai2002@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
